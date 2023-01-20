@@ -1,0 +1,70 @@
+@charset "UTF-8"; 
+
+/*Layout Colors:
+Blue: #033E8C
+Darkgreen: #469936
+Lightgreen: #62B247
+Yellow: #F2CB05
+White: #F2F2F2
+Gray: ##E9EBED
+*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #F2F2F2 ;
+}
+header{
+    background-color: #62B247;
+    text-align: center;
+    min-width: 300px;
+    padding: 20px;
+    color: #ffff;
+    font-size: 25px;
+}
+
+header > h1{
+    text-shadow: 0px 0px 10px rgba(0, 0, 0 , 0.418);;
+}
+
+.titleNames{
+    font-size: 22px;
+}
+
+.Teste{
+    color: #62B247;
+}
+
+.cemetery_valedosonho{
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding: 20px;
+    background-color: #E9EBED;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0 , 0.418);
+    border-radius: 10px;
+}
+
+#cemetery_bottons{
+    color: black;
+}
+
+#footerbackground{
+    background-color: #0B171F;
+    color: #ffff;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.textfooter{
+    text-align: center;
+}
+
