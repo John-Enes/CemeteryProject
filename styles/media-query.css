@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 992px) {
+
+    .cemetery_msja:hover{
+        transform: scale(1.03);
+        transition: 0.2s;
+    }
+    
+    .cemetery_valedosonho:hover{
+        transform: scale(1.03);
+        transition: 0.2s;
+    }
+    
+    .cemetery_bocaina:hover{
+        transform: scale(1.03);
+        transition: 0.2s;
+    }
+    
+    .textfooter{
+        font-size: 22px;
+    }
+
+}
